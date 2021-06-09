@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JabinSara548
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JabinSara548/JabinSara548 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @JabinSara548 👧🏻  
+- 👀 I’m interested in drawing 🎨
+- 🌱 I’m currently in 6th grade
+- ❓ so.... how about you?
